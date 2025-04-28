@@ -1,8 +1,16 @@
 {
-    "projects": {
+    "projects": [{
         "name": "KwickApp",
         "version": "1.0.0",
         "description": "A sample project",
-        "author": "Hearaman"
-    }
+        "author": "Hearaman",
+        "is_prod_ready": true
+    },
+    {
+        "name": "DemoApp",
+        "version": "1.0.0",
+        "description": "A sample project",
+        "author": "Hearaman",
+        "is_prod_ready": false
+    }]
 }
