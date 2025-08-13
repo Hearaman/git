@@ -1,1 +1,3 @@
 # git
+
+The purpose of our app is to empower engineering teams by enabling rapid application development without duplicate efforts, streamlining workflows through a centralized developer portal. It supports app modernisation with cloud native practices, integrating tools like Kubernetes and CI/CD pipelines for seamless scalability and resilience. This ensures consistency and compliance across projects by fostering organisation-specific golden paths. It reduces onboarding time by 50%, boosts productivity, and cuts costs. Ultimately, it transforms fragmented toolsets into a unified ecosystem, accelerating innovation and aligning tech initiatives with business goals for sustained growth.
